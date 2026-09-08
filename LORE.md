@@ -90,6 +90,14 @@
 
 ---
 
+### Militares y Cazadores del Gobierno Humano
+
+**Sargento Radek**
+- **Rol**: Cazador veterano de una División de Blindaje Pesado, sin magia, desensibilizado y completamente adherido a la doctrina de exterminio absoluto de la Junta Militar.
+- **Estado**: Vivo. Lideró la aniquilación total de un pequeño asentamiento fronterizo no identificado ("Operación Ceniza"), sin distinguir entre contrabandistas, Custodios o civiles. No muestra ningún indicio de crisis moral tras el hecho; continúa activo en rutas aleatorias de la Red Ferroviaria, a la espera de la próxima alerta de anomalía térmica.
+
+---
+
 ## Criaturas y Flora Anómala
 
 - **Amalgamas Somáticas**: Masas grotescas de carne mal formada, con brazos supernumerarios y bocas desplazadas. Se arrastran por las sombras de los Sitios.
