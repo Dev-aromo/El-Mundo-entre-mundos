@@ -13,8 +13,8 @@
 - **Estado**: Vivo. Logró salir del Sitio surgido en Poza Gris y regresó ante su dragón, cuestionando qué tan profunda es la conspiración de los disidentes draconianos.
 
 **Nía**
-- **Rol**: Mercenaria proscrita y Bebedora (usuaria de magia cinética y de fuego). Actúa como fuerza de vanguardia.
-- **Estado**: Viva (herida y en recuperación). Quedó gravemente debilitada tras sobrecalentar su cuerpo para contener una horda. Valerius le reveló la ubicación de la Puerta de Roble para que busque su redención en el Dominio.
+- **Rol**: Ex mercenaria proscrita, ahora Elegida. Usuaria de magia cinética y de fuego, con inmunidad total tras completar el Proceso de Redención.
+- **Estado**: Viva. Encontró la Puerta de Roble en solitario, sobrevivió a los Cadáveres Mutados y resolvió el acertijo de la habitación sellada. Recibió la Biomáquina de manos del Líder Dragón y ahora posee inmunidad total a su propio poder y la Visión Verdadera. Regresó a Las Cercanías como Elegida, ya sin el riesgo constante de autodestruirse.
 
 **Jarek**
 - **Rol**: Ingeniero sin magia y Custodio. Especialista en tecnología de estabilización, balizas y artefactos.
@@ -139,8 +139,8 @@
 - Sistema de fortificaciones móviles blindadas que viaja por rutas aleatorias para conectar los distritos industriales con la frontera.
 
 **La Puerta de Roble y el Dominio**
-- **La Puerta de Roble**: puerta tapiada y oculta en un rincón de Las Cercanías. Se manifiesta cuando un viajero escucha una música extraña, sostenida por una voz profunda, cuyo origen nadie ha podido explicar.
-- **El Dominio**: territorio o prueba oculta a la que conduce la Puerta de Roble. Buscado por los Bebedores para aprender a dominar su magia y evitar autodestruirse. Su naturaleza exacta se mantiene deliberadamente sin describir en detalle.
+- **La Puerta de Roble**: puerta tapiada y oculta en un rincón de Las Cercanías. Se manifiesta cuando un viajero, estando en soledad, escucha una música extraña, sostenida por una voz profunda, cuyo origen nadie ha podido explicar.
+- **El Dominio**: laberinto parcialmente domesticado por biotecnología draconiana al que conduce la Puerta de Roble. En su interior no hay fauna alienígena, solo Cadáveres Mutados (fracasos previos de la prueba) y una geometría distorsionada que exige ingenio más que fuerza para atravesarla. Quien logra resolverlo llega ante el Líder Dragón, quien concede la Biomáquina. Nía fue la primera, hasta ahora, en completar la prueba en solitario y regresar convertida en Elegida.
 
 **Territorio Dragón**
 - Región extensa del planeta gobernada por los dragones, ubicada a días de viaje a través de Las Cercanías.
